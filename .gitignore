@@ -11,3 +11,7 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Data_set
+data/raw/
+data/processed/
