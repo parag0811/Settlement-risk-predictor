@@ -58,7 +58,7 @@ def predict_settlement_risk(
 
 
 if __name__ == "__main__":
-    result = predict_settlement_risk(
+    result = predict_settlement_risk(   
         amount=500,
         past_total_settlements=10,
         past_delay_rate=0.3,
